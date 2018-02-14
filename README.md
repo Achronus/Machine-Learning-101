@@ -1,4 +1,4 @@
-# machinelearning101
+# Machine Learning 101
 This repo is my own personal guide to machine learning and contains knowledge from a variety of courses, blog posts and research papers that I have encountered that have been useful to me on my journey to becoming a Machine Learning Engineer. A detailed list of these links can be found at the bottom of this page.
 
 ## Usage/License
