@@ -34,13 +34,13 @@ The sections consist of: Machine Learning, Deep Learning, Computer Vision, Artif
 
 ### Deep Learning
 * [Supervised Deep Learning Models]()
-..* [Artificial Neural Networks (ANN)]()
-..* [Convolutional Neural Networks (CNN)]()
-..* [Recurrent Neural Networks (RNN)]()
+...* [Artificial Neural Networks (ANN)]()
+...* [Convolutional Neural Networks (CNN)]()
+...* [Recurrent Neural Networks (RNN)]()
 * [Unsupervised Deep Learning Models]()
-..* [Self Organizing Maps (SOM)]()
-..* [Boltzmann Machines (BM)]()
-..* [AutoEncoders (AE)]()
+...* [Self Organizing Maps (SOM)]()
+...* [Boltzmann Machines (BM)]()
+...* [AutoEncoders (AE)]()
 
 ### Computer Vision
 * [Face Recognition]()
