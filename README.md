@@ -28,6 +28,7 @@ The sections consist of: Machine Learning, Deep Learning, Computer Vision, Artif
 * [Classification Models]()
 * [Clustering Models]()
 * [Association Rule Learning]()
+* [Reinforcement Learning]()
 * [Dimensionality Reduction]()
 * [Model Selection]()
 * [XGBoost]()
