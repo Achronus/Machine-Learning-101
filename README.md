@@ -23,38 +23,37 @@ The Natural Language Processing models are coded using the following libraries: 
 The sections consist of: Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence, Natural Language Processing. These are split into multiple subsections that link to wiki pages for further information.
 
 ### Machine Learning
-* [Data Preprocessing]()
-* [Regression Models]()
-* [Classification Models]()
-* [Clustering Models]()
-* [Association Rule Learning]()
-* [Reinforcement Learning]()
-* [Dimensionality Reduction]()
-* [Model Selection]()
-* [XGBoost]()
+* [Data Preprocessing](https://github.com/Achronus/Machine-Learning-101/wiki/Data-Preprocessing)
+* [Regression Models](https://github.com/Achronus/Machine-Learning-101/wiki/Regression-Models)
+* [Classification Models](https://github.com/Achronus/Machine-Learning-101/wiki/Classification-Models)
+* [Clustering Models](https://github.com/Achronus/Machine-Learning-101/wiki/Clustering-Models)
+* [Association Rule Learning](https://github.com/Achronus/Machine-Learning-101/wiki/Association-Rule-Learning)
+* [Dimensionality Reduction](https://github.com/Achronus/Machine-Learning-101/wiki/Dimensionality-Reduction)
+* [Model Selection](https://github.com/Achronus/Machine-Learning-101/wiki/Model-Selection)
+* [XGBoost](https://github.com/Achronus/Machine-Learning-101/wiki/XGBoost)
 
 ### Deep Learning
-* [Supervised Deep Learning Models]()
-  * [Artificial Neural Networks (ANN)]()
-  * [Convolutional Neural Networks (CNN)]()
-  * [Recurrent Neural Networks (RNN)]()
-* [Unsupervised Deep Learning Models]()
-  * [Self Organizing Maps (SOM)]()
-  * [Boltzmann Machines (BM)]()
-  * [AutoEncoders (AE)]()
+* [Supervised Deep Learning Models](https://github.com/Achronus/Machine-Learning-101/wiki/Types-of-Deep-Learning)
+  * [Artificial Neural Networks (ANN)](https://github.com/Achronus/Machine-Learning-101/wiki/Artificial-Neural-Networks-(ANN))
+  * [Convolutional Neural Networks (CNN)](https://github.com/Achronus/Machine-Learning-101/wiki/Convolutional-Neural-Networks-(CNN))
+  * [Recurrent Neural Networks (RNN)](https://github.com/Achronus/Machine-Learning-101/wiki/Recurrent-Neural-Networks-(RNN))
+* [Unsupervised Deep Learning Models](https://github.com/Achronus/Machine-Learning-101/wiki/Types-of-Deep-Learning)
+  * [Self Organizing Maps (SOM)](https://github.com/Achronus/Machine-Learning-101/wiki/Self-Organizing-Maps-(SOM))
+  * [Boltzmann Machines (BM)](https://github.com/Achronus/Machine-Learning-101/wiki/Boltzmann-Machines-(BM))
+  * [AutoEncoders (AE)](https://github.com/Achronus/Machine-Learning-101/wiki/AutoEncoders-(AE))
 
 ### Computer Vision
-* [Face Recognition]()
-* [Object Detection]()
-* [Generative Adversarial Networks (GANs)]()
+* [Face Recognition](https://github.com/Achronus/Machine-Learning-101/wiki/Face-Recognition)
+* [Object Detection](https://github.com/Achronus/Machine-Learning-101/wiki/Object-Detection)
+* [Generative Adversarial Networks (GANs)](https://github.com/Achronus/Machine-Learning-101/wiki/Generative-Adversarial-Networks-(GANs))
 
 ### Artificial Intelligence
-* [Deep Q-Learning]()
-* [Deep Convolutional Q-Learning]()
-* [Asynchronous Advantage Actor-Critic (A3C)]()
+* [Deep Q-Learning](https://github.com/Achronus/Machine-Learning-101/wiki/Deep-Q-Learning)
+* [Deep Convolutional Q-Learning](https://github.com/Achronus/Machine-Learning-101/wiki/Deep-Convolutional-Q-Learning)
+* [Asynchronous Advantage Actor-Critic (A3C)](https://github.com/Achronus/Machine-Learning-101/wiki/Asynchronous-Advantage-Actor-Critic-(A3C))
 
 ### Natural Language Processing
-* [Deep Natural Language Processing]()
+* [Deep Natural Language Processing](https://github.com/Achronus/Machine-Learning-101/wiki/Deep-Natural-Language-Processing)
 
 ## References
 Here is the list of references for the information within this repo.
