@@ -68,7 +68,9 @@ I highly recommend these courses and I just want to say a huge thank you to the 
 * [Deep Learning & Natural Language Processing A-Z](https://www.udemy.com/chatbot/)
 
 ### Blog Posts
-TBC
+Thank you to all writers of the blog posts that are linked within this section, these have been a massive help to understanding core concepts of the Machine Learning world.
+
+* [Feature Scaling](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 
 ### Research Papers
 TBC
