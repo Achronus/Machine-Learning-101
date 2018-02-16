@@ -37,6 +37,7 @@ The sections consist of: Machine Learning, Deep Learning, Computer Vision, Artif
   * [Artificial Neural Networks (ANN)](https://github.com/Achronus/Machine-Learning-101/wiki/Artificial-Neural-Networks-(ANN))
   * [Convolutional Neural Networks (CNN)](https://github.com/Achronus/Machine-Learning-101/wiki/Convolutional-Neural-Networks-(CNN))
   * [Recurrent Neural Networks (RNN)](https://github.com/Achronus/Machine-Learning-101/wiki/Recurrent-Neural-Networks-(RNN))
+
 * [Unsupervised Deep Learning Models](https://github.com/Achronus/Machine-Learning-101/wiki/Types-of-Deep-Learning)
   * [Self Organizing Maps (SOM)](https://github.com/Achronus/Machine-Learning-101/wiki/Self-Organizing-Maps-(SOM))
   * [Boltzmann Machines (BM)](https://github.com/Achronus/Machine-Learning-101/wiki/Boltzmann-Machines-(BM))
