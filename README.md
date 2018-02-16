@@ -28,6 +28,7 @@ The sections consist of: Machine Learning, Deep Learning, Computer Vision, Artif
 * [Classification Models](https://github.com/Achronus/Machine-Learning-101/wiki/Classification-Models)
 * [Clustering Models](https://github.com/Achronus/Machine-Learning-101/wiki/Clustering-Models)
 * [Association Rule Learning](https://github.com/Achronus/Machine-Learning-101/wiki/Association-Rule-Learning)
+* [Reinforcement Learning](https://github.com/Achronus/Machine-Learning-101/wiki/Reinforcement-Learning)
 * [Dimensionality Reduction](https://github.com/Achronus/Machine-Learning-101/wiki/Dimensionality-Reduction)
 * [Model Selection](https://github.com/Achronus/Machine-Learning-101/wiki/Model-Selection)
 * [XGBoost](https://github.com/Achronus/Machine-Learning-101/wiki/XGBoost)
