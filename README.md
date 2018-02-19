@@ -83,6 +83,7 @@ Thank you to all writers of the blog posts that are linked within this section, 
 * [Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 * [Understanding Convolutional Neural Networks (CNNs)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [Understanding Long Short-Term Memory (LSTM) Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 * [AutoEncoders](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/)
 * [AutoEncoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 * [Brief Overview of Sparse AutoEncoders](http://www.ericlwilkinson.com/blog/2014/11/19/deep-learning-sparse-autoencoders)
